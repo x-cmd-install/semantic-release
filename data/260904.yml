@@ -7,7 +7,7 @@ about:
   head: 8d905a5
   archived: false
   latestVersion: v26.0.0-beta.1
-  collectedAt: 2026-09-04T19:59:08Z
+  collectedAt: 2026-09-04T20:41:49Z
 timeline:
   created: 2014-09-15
   lastCommit: 2026-08-05
@@ -80,6 +80,44 @@ total:
   openIssue: 337
   commit: 2217
 ---
+path: /home/runner/.x-repo/github.com/semantic-release/semantic-release
+collectedAt: 2026-09-04T20:41:51Z
+loc:
+  Json:
+    code: 14874
+    comments: 0
+    blanks: 0
+    files: 2
+  JavaScript:
+    code: 9064
+    comments: 815
+    blanks: 1296
+    files: 65
+  TypeScript:
+    code: 128
+    comments: 514
+    blanks: 82
+    files: 1
+  Yaml:
+    code: 40
+    comments: 0
+    blanks: 2
+    files: 2
+  Svg:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 359
+    blanks: 160
+    files: 3
+total:
+  code: 24123
+  comments: 1695
+  blanks: 1540
+  files: 74
 ---
 date: "2026-08-31T02:41:35Z"
 repo:
