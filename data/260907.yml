@@ -5,13 +5,13 @@ about:
   head: 8d905a5
   archived: false
   latestVersion: "v26.0.0-beta.1"
-  collectedAt: 2026-09-07T05:31:12Z
+  collectedAt: 2026-09-07T18:55:21Z
 timeline:
   created: 2014-09-15
   lastCommit: 2026-08-05
   lastRelease: 2026-08-07
 popularity:
-  star: 24026
+  star: 24028
   watcher: 62
   fork: 1808
   release: 456
@@ -79,7 +79,7 @@ total:
   commit: 2217
 ---
 path: /home/runner/.x-repo/github.com/semantic-release/semantic-release
-collectedAt: 2026-09-07T05:31:17Z
+collectedAt: 2026-09-07T18:55:24Z
 loc:
   Json:
     code: 14874
@@ -266,7 +266,7 @@ checks:
       - 'Info: found contributions from: AfricaHackTrip, apple @semantic-release, conc-at, dsmjs, dsmwebcollective, fircleco, form8ion, go-semantic-release, greenkeeper-keeper, greenkeeperio, hearts, hoodiehq, interloom, itbeyco @semantic-release @hearts @jargonsdev @fircleco, jargonsdev, johndeere, noBackend, nock, nodeschool, octoherd, opinionated-digital-center, probot, prosperity-solutions, repository-settings, robinhood, semantic-release, traverson, travi-org, travi-test, vercel @octokit @octoherd @probot @nock @semantic-release @aontributors @hearts, xebia'
 ---
 eget:
-  collectedAt: 2026-09-07T05:31:20+00:00
+  collectedAt: 2026-09-07T18:55:25+00:00
   platform:
     darwin/arm64:
       name:  null
