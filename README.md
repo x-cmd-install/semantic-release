@@ -7,7 +7,7 @@
 - **Latest release**: `v26.0.0-beta.1` (2026-08-05)
 - **Last commit**: 2026-08-05
 - **License**: MIT
-- **Stars**: 24030 · **Forks**: 1808 · **Open issues**: 1534 · **Contributors**: 259
+- **Stars**: 24031 · **Forks**: 1810 · **Open issues**: 1534 · **Contributors**: 259
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/semantic-release> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:37:24Z._
+_Last regenerated: 2026-09-09T20:08:23Z._
