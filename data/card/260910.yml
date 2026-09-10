@@ -7,7 +7,7 @@ about:
   latestVersion: "v26.0.0-beta.1"
   latestRelease: "v25.0.9"
   latestPrerelease: "v26.0.0-beta.1"
-  collectedAt: 2026-09-10T17:34:45Z
+  collectedAt: 2026-09-10T21:30:47Z
 timeline:
   created: 2014-09-15
   lastCommit: 2026-08-05
@@ -83,7 +83,7 @@ total:
   commit: 2217
 ---
 path: /home/runner/.x-repo/github.com/semantic-release/semantic-release
-collectedAt: 2026-09-10T17:34:56Z
+collectedAt: 2026-09-10T21:30:51Z
 loc:
   Json:
     code: 14874
