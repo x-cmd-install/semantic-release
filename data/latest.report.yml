@@ -7,7 +7,7 @@ about:
   latestVersion: "v26.0.0-beta.1"
   latestRelease: "v25.0.9"
   latestPrerelease: "v26.0.0-beta.1"
-  collectedAt: 2026-09-11T05:43:47Z
+  collectedAt: 2026-09-11T19:12:29Z
 timeline:
   created: 2014-09-15
   lastCommit: 2026-08-05
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-05
   lastPrerelease: 2026-08-07
 popularity:
-  star: 24031
+  star: 24034
   watcher: 62
-  fork: 1811
+  fork: 1812
   release: 456
   contributor: 259
   pullRequest: 2132
@@ -83,7 +83,7 @@ total:
   commit: 2217
 ---
 path: /home/runner/.x-repo/github.com/semantic-release/semantic-release
-collectedAt: 2026-09-11T05:43:50Z
+collectedAt: 2026-09-11T19:12:34Z
 loc:
   Json:
     code: 14874
