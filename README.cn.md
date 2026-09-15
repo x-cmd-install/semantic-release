@@ -14,11 +14,11 @@ x install semantic-release
 
 ## 代码洞察
 
-合计: **24,112** 行代码（覆盖前 5 种语言、共 **71** 个文件）。
+合计: **24,066** 行代码（覆盖前 5 种语言、共 **71** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Json | 14,877 | 0 | 0 | 2 |
+| Json | 14,831 | 0 | 0 | 2 |
 | JavaScript | 9,064 | 815 | 1,296 | 65 |
 | TypeScript | 128 | 514 | 82 | 1 |
 | Yaml | 40 | 0 | 2 | 2 |
@@ -32,7 +32,7 @@ x install semantic-release
 
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
+- **Signed-Releases** (-1/10) — no releases found
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install semantic-release
 
 ## 流行度
 
-- **Star**: 24,035 · **Fork**: 1,813 · **开放 issue**: 1,534 · **贡献者**: 259
+- **Star**: 24,037 · **Fork**: 1,812 · **开放 issue**: 1,534 · **贡献者**: 259
 
 ## 累计统计
 
-- **发布数**: 456 · **已合并 PR**: 1720 · **开放 PR**: 68 · **已关闭 issue**: 1198 · **开放 issue**: 336 · **提交数**: 2224
+- **发布数**: 456 · **已合并 PR**: 1722 · **开放 PR**: 70 · **已关闭 issue**: 1198 · **开放 issue**: 336 · **提交数**: 2226
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 7 | 3 | 1 | 0 | 7 |
-| last60d | 2026-07-16 | 3 | 29 | 11 | 3 | 2 | 24 |
-| 90d | 2026-06-16 | 5 | 64 | 14 | 5 | 2 | 66 |
-| last180d | 2026-03-18 | 7 | 150 | 21 | 11 | 5 | 158 |
-| 360d | 2025-09-19 | 25 | 305 | 28 | 27 | 14 | 331 |
-| last720d | 2024-09-24 | 48 | 591 | 32 | 70 | 26 | 658 |
+| 30d | 2026-08-16 | 0 | 9 | 4 | 1 | 0 | 9 |
+| last60d | 2026-07-17 | 3 | 29 | 11 | 3 | 1 | 26 |
+| 90d | 2026-06-17 | 5 | 65 | 16 | 5 | 2 | 68 |
+| last180d | 2026-03-19 | 7 | 151 | 23 | 11 | 5 | 160 |
+| 360d | 2025-09-20 | 24 | 307 | 30 | 27 | 14 | 333 |
+| last720d | 2024-09-25 | 48 | 592 | 34 | 70 | 26 | 660 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ semantic-release 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T06:07:45Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:57:42Z._
