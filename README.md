@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 24,051 · **Forks**: 1,810 · **Open issues**: 1,534 · **Contributors**: 259
+- **Stars**: 24,053 · **Forks**: 1,810 · **Open issues**: 1,534 · **Contributors**: 259
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 9 | 4 | 0 | 0 | 9 |
-| last60d | 2026-07-22 | 2 | 25 | 10 | 3 | 1 | 26 |
-| 90d | 2026-06-22 | 5 | 62 | 16 | 4 | 2 | 68 |
-| last180d | 2026-03-24 | 7 | 146 | 23 | 11 | 5 | 160 |
-| 360d | 2025-09-25 | 24 | 305 | 30 | 27 | 14 | 333 |
-| last720d | 2024-09-30 | 47 | 590 | 34 | 69 | 26 | 656 |
+| 30d | 2026-08-22 | 0 | 9 | 4 | 0 | 0 | 9 |
+| last60d | 2026-07-23 | 2 | 24 | 10 | 3 | 1 | 18 |
+| 90d | 2026-06-23 | 5 | 61 | 15 | 4 | 2 | 58 |
+| last180d | 2026-03-25 | 7 | 145 | 23 | 11 | 5 | 152 |
+| 360d | 2025-09-26 | 24 | 304 | 30 | 26 | 14 | 326 |
+| last720d | 2024-10-01 | 47 | 589 | 34 | 69 | 26 | 655 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for semantic-release lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:53:33Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:54:16Z._
