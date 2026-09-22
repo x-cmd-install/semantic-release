@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (-1/10) — no releases found
+- **Vulnerabilities** (0/10) — 12 existing vulnerabilities detected
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v26.0.0-beta.1` (2026-08-05)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-21
 
 ## Popularity
 
-- **Stars**: 24,053 · **Forks**: 1,810 · **Open issues**: 1,534 · **Contributors**: 259
+- **Stars**: 24,057 · **Forks**: 1,810 · **Open issues**: 1,534 · **Contributors**: 259
 
 ## Totals (cumulative)
 
-- **Releases**: 456 · **Merged PRs**: 1722 · **Open PRs**: 70 · **Closed issues**: 1198 · **Open issues**: 336 · **Commits**: 2226
+- **Releases**: 456 · **Merged PRs**: 1726 · **Open PRs**: 66 · **Closed issues**: 1198 · **Open issues**: 336 · **Commits**: 2228
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 9 | 4 | 0 | 0 | 9 |
-| last60d | 2026-07-23 | 2 | 24 | 10 | 3 | 1 | 18 |
-| 90d | 2026-06-23 | 5 | 61 | 15 | 4 | 2 | 58 |
-| last180d | 2026-03-25 | 7 | 145 | 23 | 11 | 5 | 152 |
-| 360d | 2025-09-26 | 24 | 304 | 30 | 26 | 14 | 326 |
-| last720d | 2024-10-01 | 47 | 589 | 34 | 69 | 26 | 655 |
+| 30d | 2026-08-23 | 0 | 12 | 1 | 0 | 0 | 11 |
+| last60d | 2026-07-24 | 2 | 26 | 6 | 3 | 1 | 20 |
+| 90d | 2026-06-24 | 5 | 64 | 11 | 4 | 2 | 60 |
+| last180d | 2026-03-26 | 7 | 149 | 19 | 11 | 5 | 154 |
+| 360d | 2025-09-27 | 24 | 308 | 26 | 26 | 14 | 328 |
+| last720d | 2024-10-02 | 47 | 593 | 30 | 69 | 25 | 657 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for semantic-release lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:54:16Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:53:46Z._
