@@ -4,7 +4,7 @@
 
 📦🚀 Fully automated version management and package publishing
 
-[![x-cmd/install — semantic-release Code Quality Monitoring Repo Card](https://repo.x-cmd.io/semantic-release.svg)](https://x-cmd.com/install/semantic-release)
+[![x-cmd/install — semantic-release Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/semantic-release.svg)](https://x-cmd.com/install/semantic-release)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 24,057 · **Forks**: 1,810 · **Open issues**: 1,534 · **Contributors**: 259
+- **Stars**: 24,059 · **Forks**: 1,810 · **Open issues**: 1,534 · **Contributors**: 259
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 12 | 1 | 0 | 0 | 11 |
-| last60d | 2026-07-24 | 2 | 26 | 6 | 3 | 1 | 20 |
-| 90d | 2026-06-24 | 5 | 64 | 11 | 4 | 2 | 60 |
-| last180d | 2026-03-26 | 7 | 149 | 19 | 11 | 5 | 154 |
-| 360d | 2025-09-27 | 24 | 308 | 26 | 26 | 14 | 328 |
-| last720d | 2024-10-02 | 47 | 593 | 30 | 69 | 25 | 657 |
+| 30d | 2026-08-24 | 0 | 12 | 1 | 0 | 0 | 11 |
+| last60d | 2026-07-25 | 2 | 26 | 6 | 3 | 1 | 20 |
+| 90d | 2026-06-25 | 5 | 63 | 11 | 4 | 2 | 60 |
+| last180d | 2026-03-27 | 7 | 145 | 19 | 11 | 5 | 154 |
+| 360d | 2025-09-28 | 24 | 308 | 26 | 26 | 14 | 328 |
+| last720d | 2024-10-03 | 47 | 592 | 30 | 69 | 25 | 657 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for semantic-release lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:53:46Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:05:04Z._

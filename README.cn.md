@@ -4,7 +4,7 @@
 
 📦🚀 Fully automated version management and package publishing
 
-[![x-cmd/install — semantic-release Code Quality Monitoring Repo Card](https://repo.x-cmd.io/semantic-release.svg?lang=zh)](https://x-cmd.com/install/semantic-release)
+[![x-cmd/install — semantic-release Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/semantic-release.svg?lang=zh)](https://x-cmd.com/install/semantic-release)
 
 ## 安装
 
@@ -47,7 +47,7 @@ x install semantic-release
 
 ## 流行度
 
-- **Star**: 24,057 · **Fork**: 1,810 · **开放 issue**: 1,534 · **贡献者**: 259
+- **Star**: 24,059 · **Fork**: 1,810 · **开放 issue**: 1,534 · **贡献者**: 259
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install semantic-release
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 12 | 1 | 0 | 0 | 11 |
-| last60d | 2026-07-24 | 2 | 26 | 6 | 3 | 1 | 20 |
-| 90d | 2026-06-24 | 5 | 64 | 11 | 4 | 2 | 60 |
-| last180d | 2026-03-26 | 7 | 149 | 19 | 11 | 5 | 154 |
-| 360d | 2025-09-27 | 24 | 308 | 26 | 26 | 14 | 328 |
-| last720d | 2024-10-02 | 47 | 593 | 30 | 69 | 25 | 657 |
+| 30d | 2026-08-24 | 0 | 12 | 1 | 0 | 0 | 11 |
+| last60d | 2026-07-25 | 2 | 26 | 6 | 3 | 1 | 20 |
+| 90d | 2026-06-25 | 5 | 63 | 11 | 4 | 2 | 60 |
+| last180d | 2026-03-27 | 7 | 145 | 19 | 11 | 5 | 154 |
+| 360d | 2025-09-28 | 24 | 308 | 26 | 26 | 14 | 328 |
+| last720d | 2024-10-03 | 47 | 592 | 30 | 69 | 25 | 657 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ semantic-release 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:53:47Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:05:04Z._
