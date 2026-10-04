@@ -32,7 +32,7 @@ x install semantic-release
 
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (-1/10) — no releases found
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,26 +43,26 @@ x install semantic-release
 ## 发布
 
 - **最新版本**: `v26.0.0-beta.2` (2026-08-05)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-10-04
 
 ## 流行度
 
-- **Star**: 24,082 · **Fork**: 1,809 · **开放 issue**: 1,535 · **贡献者**: 259
+- **Star**: 24,083 · **Fork**: 1,809 · **开放 issue**: 1,535 · **贡献者**: 259
 
 ## 累计统计
 
-- **发布数**: 457 · **已合并 PR**: 1726 · **开放 PR**: 66 · **已关闭 issue**: 1198 · **开放 issue**: 337 · **提交数**: 2228
+- **发布数**: 457 · **已合并 PR**: 1727 · **开放 PR**: 67 · **已关闭 issue**: 1198 · **开放 issue**: 337 · **提交数**: 2229
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 11 | 3 | 0 | 1 | 11 |
-| last60d | 2026-08-04 | 3 | 14 | 5 | 3 | 2 | 11 |
-| 90d | 2026-07-05 | 6 | 47 | 9 | 4 | 3 | 47 |
-| last180d | 2026-04-06 | 8 | 136 | 19 | 10 | 6 | 148 |
-| 360d | 2025-10-08 | 25 | 299 | 27 | 23 | 15 | 324 |
-| last720d | 2024-10-13 | 48 | 586 | 31 | 69 | 25 | 650 |
+| 30d | 2026-09-04 | 1 | 12 | 4 | 0 | 1 | 12 |
+| last60d | 2026-08-05 | 3 | 14 | 5 | 3 | 1 | 12 |
+| 90d | 2026-07-06 | 6 | 47 | 10 | 4 | 3 | 41 |
+| last180d | 2026-04-07 | 8 | 137 | 20 | 10 | 6 | 142 |
+| 360d | 2025-10-09 | 25 | 298 | 28 | 23 | 15 | 305 |
+| last720d | 2024-10-14 | 48 | 586 | 32 | 69 | 25 | 651 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ semantic-release 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261003.yml` · 2026-10-03T06:02:01Z._
+_数据快照: `data/card/261004.yml` · 2026-10-04T06:45:49Z._
