@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Vulnerabilities** (0/10) — 25 existing vulnerabilities detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 24,083 · **Forks**: 1,809 · **Open issues**: 1,535 · **Contributors**: 259
+- **Stars**: 24,086 · **Forks**: 1,809 · **Open issues**: 1,535 · **Contributors**: 259
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 1 | 12 | 4 | 0 | 1 | 12 |
-| last60d | 2026-08-05 | 3 | 14 | 5 | 3 | 1 | 12 |
-| 90d | 2026-07-06 | 6 | 47 | 10 | 4 | 3 | 41 |
-| last180d | 2026-04-07 | 8 | 137 | 20 | 10 | 6 | 142 |
-| 360d | 2025-10-09 | 25 | 298 | 28 | 23 | 15 | 305 |
-| last720d | 2024-10-14 | 48 | 586 | 32 | 69 | 25 | 651 |
+| 30d | 2026-09-05 | 1 | 12 | 4 | 0 | 1 | 12 |
+| last60d | 2026-08-06 | 2 | 14 | 5 | 3 | 1 | 12 |
+| 90d | 2026-07-07 | 6 | 46 | 10 | 4 | 3 | 41 |
+| last180d | 2026-04-08 | 8 | 136 | 20 | 10 | 6 | 142 |
+| 360d | 2025-10-10 | 25 | 296 | 28 | 23 | 15 | 305 |
+| last720d | 2024-10-15 | 48 | 586 | 32 | 69 | 25 | 650 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for semantic-release lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:45:48Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:20:54Z._
