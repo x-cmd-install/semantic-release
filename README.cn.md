@@ -31,8 +31,8 @@ x install semantic-release
 评分最低的几项:
 
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (-1/10) — no releases found
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install semantic-release
 
 ## 流行度
 
-- **Star**: 24,112 · **Fork**: 1,807 · **开放 issue**: 1,536 · **贡献者**: 259
+- **Star**: 24,113 · **Fork**: 1,807 · **开放 issue**: 1,536 · **贡献者**: 259
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install semantic-release
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 2 | 1 | 7 | 0 | 2 | 3 |
-| last60d | 2026-08-19 | 2 | 13 | 8 | 0 | 2 | 12 |
-| 90d | 2026-07-20 | 4 | 33 | 11 | 3 | 3 | 31 |
-| last180d | 2026-04-21 | 9 | 123 | 19 | 9 | 6 | 135 |
-| 360d | 2025-10-23 | 11 | 280 | 30 | 22 | 16 | 296 |
-| last720d | 2024-10-28 | 47 | 576 | 34 | 68 | 24 | 636 |
+| 30d | 2026-09-19 | 2 | 1 | 7 | 0 | 2 | 1 |
+| last60d | 2026-08-20 | 2 | 13 | 8 | 0 | 2 | 12 |
+| 90d | 2026-07-21 | 4 | 32 | 11 | 3 | 3 | 22 |
+| last180d | 2026-04-22 | 9 | 123 | 19 | 9 | 6 | 130 |
+| 360d | 2025-10-24 | 11 | 278 | 30 | 22 | 16 | 287 |
+| last720d | 2024-10-29 | 47 | 575 | 34 | 68 | 24 | 635 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ semantic-release 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261018.yml` · 2026-10-18T05:19:55Z._
+_数据快照: `data/card/261019.yml` · 2026-10-19T05:21:58Z._
