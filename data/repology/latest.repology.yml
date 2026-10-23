@@ -1,0 +1,66 @@
+- repo: nix_stable_24_05
+  srcname: semantic-release
+  visiblename: semantic-release
+  version: 23.1.1
+  origversion: null
+  status: outdated
+  summary: Fully automated version management and package publishing
+  maintainers:
+    - sestrella.me@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: semantic-release
+  visiblename: semantic-release
+  version: 24.1.2
+  origversion: null
+  status: outdated
+  summary: Fully automated version management and package publishing
+  maintainers:
+    - sestrella.me@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: semantic-release
+  visiblename: semantic-release
+  version: 24.2.3
+  origversion: null
+  status: outdated
+  summary: Fully automated version management and package publishing
+  maintainers:
+    - sestrella.me@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: semantic-release
+  visiblename: semantic-release
+  version: 25.0.1
+  origversion: null
+  status: outdated
+  summary: Fully automated version management and package publishing
+  maintainers:
+    - sestrella.me@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: semantic-release
+  visiblename: semantic-release
+  version: 25.0.2
+  origversion: null
+  status: outdated
+  summary: Fully automated version management and package publishing
+  maintainers:
+    - sestrella.me@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: semantic-release
+  visiblename: semantic-release
+  version: 25.0.9
+  origversion: null
+  status: unique
+  summary: Fully automated version management and package publishing
+  maintainers:
+    - sestrella.me@gmail.com
+  licenses:
+    - MIT
