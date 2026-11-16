@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/semantic-release/semantic-release/releases/365290791",
-  "assets_url": "https://api.github.com/repos/semantic-release/semantic-release/releases/365290791/assets",
-  "upload_url": "https://uploads.github.com/repos/semantic-release/semantic-release/releases/365290791/assets{?name,label}",
-  "html_url": "https://github.com/semantic-release/semantic-release/releases/tag/v25.0.9",
-  "id": 365290791,
+  "url": "https://api.github.com/repos/semantic-release/semantic-release/releases/446602044",
+  "assets_url": "https://api.github.com/repos/semantic-release/semantic-release/releases/446602044/assets",
+  "upload_url": "https://uploads.github.com/repos/semantic-release/semantic-release/releases/446602044/assets{?name,label}",
+  "html_url": "https://github.com/semantic-release/semantic-release/releases/tag/v26.0.1",
+  "id": 446602044,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,32 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAW8uWM4VxeUn",
-  "tag_name": "v25.0.9",
+  "node_id": "RE_kwDOAW8uWM4anps8",
+  "tag_name": "v26.0.1",
   "target_commitish": "master",
-  "name": "v25.0.9",
+  "name": "v26.0.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-08-05T04:41:45Z",
-  "updated_at": "2026-08-05T04:42:47Z",
-  "published_at": "2026-08-05T04:42:47Z",
+  "created_at": "2026-11-16T04:18:39Z",
+  "updated_at": "2026-11-16T04:19:42Z",
+  "published_at": "2026-11-16T04:19:42Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/semantic-release/semantic-release/tarball/v25.0.9",
-  "zipball_url": "https://api.github.com/repos/semantic-release/semantic-release/zipball/v25.0.9",
-  "body": "## [25.0.9](https://github.com/semantic-release/semantic-release/compare/v25.0.8...v25.0.9) (2026-08-05)\n\n\n### Bug Fixes\n\n* do not expose the authenticated repository URL in EGITNOPERMISSION errors ([#4283](https://github.com/semantic-release/semantic-release/issues/4283)) ([8d905a5](https://github.com/semantic-release/semantic-release/commit/8d905a56e80030c141a71a32c0c4cb870e90470a))\n"
+  "tarball_url": "https://api.github.com/repos/semantic-release/semantic-release/tarball/v26.0.1",
+  "zipball_url": "https://api.github.com/repos/semantic-release/semantic-release/zipball/v26.0.1",
+  "body": "## [26.0.1](https://github.com/semantic-release/semantic-release/compare/v26.0.0...v26.0.1) (2026-11-16)\n\n\n### Bug Fixes\n\n* **deps:** update dependency execa to v10 ([#4258](https://github.com/semantic-release/semantic-release/issues/4258)) ([687aae5](https://github.com/semantic-release/semantic-release/commit/687aae5bc0a62f5526096a0a3e755b2e63d25fe3))\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/semantic-release/semantic-release/releases/446602044/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
