@@ -14,25 +14,25 @@ x install semantic-release
 
 ## Code insight
 
-Total: **24,066** lines of code across **71** files in the top 5 languages.
+Total: **20,934** lines of code across **30** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 14,831 | 0 | 0 | 2 |
-| JavaScript | 9,064 | 815 | 1,296 | 65 |
+| Json | 17,286 | 0 | 0 | 2 |
+| JavaScript | 3,477 | 300 | 471 | 24 |
 | TypeScript | 128 | 514 | 82 | 1 |
 | Yaml | 40 | 0 | 2 | 2 |
 | Svg | 3 | 0 | 0 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **7.8 / 10**
+Overall score: **7.5 / 10**
 
 Lowest-scoring checks:
 
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 43 existing vulnerabilities detected
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v26.0.0-beta.7` (2026-08-05)
-- **Last commit**: 2026-10-04
+- **Latest**: `v26.0.1` (2026-11-16)
+- **Last commit**: 2026-11-16
 
 ## Popularity
 
-- **Stars**: 24,171 · **Forks**: 1,806 · **Open issues**: 1,539 · **Contributors**: 259
+- **Stars**: 24,174 · **Forks**: 1,807 · **Open issues**: 1,539 · **Contributors**: 259
 
 ## Totals (cumulative)
 
-- **Releases**: 464 · **Merged PRs**: 1733 · **Open PRs**: 76 · **Closed issues**: 1201 · **Open issues**: 338 · **Commits**: 2229
+- **Releases**: 466 · **Merged PRs**: 1737 · **Open PRs**: 74 · **Closed issues**: 1203 · **Open issues**: 336 · **Commits**: 2249
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 6 | 4 | 9 | 2 | 1 | 0 |
-| last60d | 2026-09-16 | 8 | 5 | 15 | 3 | 2 | 3 |
-| 90d | 2026-08-17 | 8 | 17 | 16 | 4 | 2 | 12 |
-| last180d | 2026-05-19 | 15 | 100 | 25 | 12 | 5 | 107 |
-| 360d | 2025-11-20 | 16 | 258 | 35 | 23 | 15 | 268 |
-| last720d | 2024-11-25 | 53 | 560 | 42 | 71 | 23 | 613 |
+| 30d | 2026-10-17 | 8 | 7 | 10 | 2 | 1 | 9 |
+| last60d | 2026-09-17 | 10 | 8 | 16 | 3 | 2 | 11 |
+| 90d | 2026-08-18 | 10 | 20 | 17 | 3 | 2 | 24 |
+| last180d | 2026-05-20 | 17 | 103 | 24 | 12 | 4 | 114 |
+| 360d | 2025-11-21 | 18 | 262 | 33 | 24 | 14 | 279 |
+| last720d | 2024-11-26 | 55 | 562 | 40 | 72 | 22 | 632 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for semantic-release lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:29:03Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:54:26Z._
