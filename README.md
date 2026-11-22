@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (-1/10) — no releases found
+- **Vulnerabilities** (0/10) — 12 existing vulnerabilities detected
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v26.0.2-beta.1` (2026-11-16)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-22
 
 ## Popularity
 
-- **Stars**: 24,187 · **Forks**: 1,808 · **Open issues**: 1,542 · **Contributors**: 259
+- **Stars**: 24,190 · **Forks**: 1,808 · **Open issues**: 1,542 · **Contributors**: 259
 
 ## Totals (cumulative)
 
-- **Releases**: 467 · **Merged PRs**: 1748 · **Open PRs**: 70 · **Closed issues**: 1207 · **Open issues**: 335 · **Commits**: 2259
+- **Releases**: 467 · **Merged PRs**: 1753 · **Open PRs**: 69 · **Closed issues**: 1207 · **Open issues**: 335 · **Commits**: 2264
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 9 | 17 | 7 | 2 | 2 | 19 |
-| last60d | 2026-09-22 | 11 | 18 | 13 | 5 | 2 | 21 |
-| 90d | 2026-08-23 | 11 | 30 | 14 | 5 | 2 | 34 |
-| last180d | 2026-05-25 | 18 | 109 | 20 | 15 | 3 | 124 |
-| 360d | 2025-11-26 | 19 | 271 | 29 | 27 | 13 | 289 |
-| last720d | 2024-12-01 | 56 | 573 | 36 | 75 | 21 | 640 |
+| 30d | 2026-10-23 | 9 | 21 | 8 | 2 | 2 | 22 |
+| last60d | 2026-09-23 | 11 | 22 | 14 | 4 | 2 | 26 |
+| 90d | 2026-08-24 | 11 | 34 | 15 | 5 | 2 | 39 |
+| last180d | 2026-05-26 | 18 | 113 | 20 | 13 | 3 | 127 |
+| 360d | 2025-11-27 | 19 | 276 | 29 | 27 | 13 | 282 |
+| last720d | 2024-12-02 | 56 | 577 | 36 | 74 | 21 | 645 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for semantic-release lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T09:06:26Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:27:22Z._

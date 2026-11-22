@@ -32,7 +32,7 @@ x install semantic-release
 
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (-1/10) — no releases found
+- **Vulnerabilities** (0/10) — 12 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,26 +43,26 @@ x install semantic-release
 ## 发布
 
 - **最新版本**: `v26.0.2-beta.1` (2026-11-16)
-- **最近提交**: 2026-11-21
+- **最近提交**: 2026-11-22
 
 ## 流行度
 
-- **Star**: 24,187 · **Fork**: 1,808 · **开放 issue**: 1,542 · **贡献者**: 259
+- **Star**: 24,190 · **Fork**: 1,808 · **开放 issue**: 1,542 · **贡献者**: 259
 
 ## 累计统计
 
-- **发布数**: 467 · **已合并 PR**: 1748 · **开放 PR**: 70 · **已关闭 issue**: 1207 · **开放 issue**: 335 · **提交数**: 2259
+- **发布数**: 467 · **已合并 PR**: 1753 · **开放 PR**: 69 · **已关闭 issue**: 1207 · **开放 issue**: 335 · **提交数**: 2264
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 9 | 17 | 7 | 2 | 2 | 19 |
-| last60d | 2026-09-22 | 11 | 18 | 13 | 5 | 2 | 21 |
-| 90d | 2026-08-23 | 11 | 30 | 14 | 5 | 2 | 34 |
-| last180d | 2026-05-25 | 18 | 109 | 20 | 15 | 3 | 124 |
-| 360d | 2025-11-26 | 19 | 271 | 29 | 27 | 13 | 289 |
-| last720d | 2024-12-01 | 56 | 573 | 36 | 75 | 21 | 640 |
+| 30d | 2026-10-23 | 9 | 21 | 8 | 2 | 2 | 22 |
+| last60d | 2026-09-23 | 11 | 22 | 14 | 4 | 2 | 26 |
+| 90d | 2026-08-24 | 11 | 34 | 15 | 5 | 2 | 39 |
+| last180d | 2026-05-26 | 18 | 113 | 20 | 13 | 3 | 127 |
+| 360d | 2025-11-27 | 19 | 276 | 29 | 27 | 13 | 282 |
+| last720d | 2024-12-02 | 56 | 577 | 36 | 74 | 21 | 645 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ semantic-release 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T09:06:27Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T08:27:22Z._
