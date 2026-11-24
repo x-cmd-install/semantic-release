@@ -43,8 +43,8 @@
   "body": "## [26.0.1](https://github.com/semantic-release/semantic-release/compare/v26.0.0...v26.0.1) (2026-11-16)\n\n\n### Bug Fixes\n\n* **deps:** update dependency execa to v10 ([#4258](https://github.com/semantic-release/semantic-release/issues/4258)) ([687aae5](https://github.com/semantic-release/semantic-release/commit/687aae5bc0a62f5526096a0a3e755b2e63d25fe3))\n",
   "reactions": {
     "url": "https://api.github.com/repos/semantic-release/semantic-release/releases/446602044/reactions",
-    "total_count": 1,
-    "+1": 1,
+    "total_count": 2,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
