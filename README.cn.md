@@ -26,13 +26,13 @@ x install semantic-release
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.5 / 10**
+总评分: **7.8 / 10**
 
 评分最低的几项:
 
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 12 existing vulnerabilities detected
+- **Signed-Releases** (-1/10) — no releases found
 
 ## 源代码
 
@@ -43,26 +43,26 @@ x install semantic-release
 ## 发布
 
 - **最新版本**: `v26.0.2-beta.1` (2026-11-16)
-- **最近提交**: 2026-11-23
+- **最近提交**: 2026-11-26
 
 ## 流行度
 
-- **Star**: 24,202 · **Fork**: 1,808 · **开放 issue**: 1,547 · **贡献者**: 259
+- **Star**: 24,202 · **Fork**: 1,809 · **开放 issue**: 1,547 · **贡献者**: 259
 
 ## 累计统计
 
-- **发布数**: 467 · **已合并 PR**: 1762 · **开放 PR**: 71 · **已关闭 issue**: 1207 · **开放 issue**: 340 · **提交数**: 2273
+- **发布数**: 467 · **已合并 PR**: 1764 · **开放 PR**: 71 · **已关闭 issue**: 1207 · **开放 issue**: 340 · **提交数**: 2275
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 6 | 28 | 10 | 2 | 7 | 31 |
-| last60d | 2026-09-26 | 10 | 31 | 15 | 4 | 7 | 35 |
-| 90d | 2026-08-27 | 11 | 43 | 17 | 5 | 7 | 48 |
-| last180d | 2026-05-29 | 18 | 122 | 22 | 13 | 8 | 136 |
-| 360d | 2025-11-30 | 19 | 282 | 31 | 27 | 18 | 291 |
-| last720d | 2024-12-05 | 56 | 583 | 38 | 74 | 26 | 651 |
+| 30d | 2026-10-27 | 6 | 30 | 10 | 2 | 7 | 33 |
+| last60d | 2026-09-27 | 10 | 33 | 15 | 4 | 7 | 37 |
+| 90d | 2026-08-28 | 11 | 45 | 17 | 5 | 7 | 50 |
+| last180d | 2026-05-30 | 18 | 122 | 22 | 13 | 8 | 138 |
+| 360d | 2025-12-01 | 19 | 282 | 31 | 27 | 18 | 293 |
+| last720d | 2024-12-06 | 56 | 585 | 38 | 74 | 26 | 652 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ semantic-release 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T10:24:36Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T09:17:52Z._

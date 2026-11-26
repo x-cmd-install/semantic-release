@@ -26,13 +26,13 @@ Total: **20,815** lines of code across **30** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.5 / 10**
+Overall score: **7.8 / 10**
 
 Lowest-scoring checks:
 
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 12 existing vulnerabilities detected
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v26.0.2-beta.1` (2026-11-16)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-26
 
 ## Popularity
 
-- **Stars**: 24,202 · **Forks**: 1,808 · **Open issues**: 1,547 · **Contributors**: 259
+- **Stars**: 24,202 · **Forks**: 1,809 · **Open issues**: 1,547 · **Contributors**: 259
 
 ## Totals (cumulative)
 
-- **Releases**: 467 · **Merged PRs**: 1762 · **Open PRs**: 71 · **Closed issues**: 1207 · **Open issues**: 340 · **Commits**: 2273
+- **Releases**: 467 · **Merged PRs**: 1764 · **Open PRs**: 71 · **Closed issues**: 1207 · **Open issues**: 340 · **Commits**: 2275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 6 | 28 | 10 | 2 | 7 | 31 |
-| last60d | 2026-09-26 | 10 | 31 | 15 | 4 | 7 | 35 |
-| 90d | 2026-08-27 | 11 | 43 | 17 | 5 | 7 | 48 |
-| last180d | 2026-05-29 | 18 | 122 | 22 | 13 | 8 | 136 |
-| 360d | 2025-11-30 | 19 | 282 | 31 | 27 | 18 | 291 |
-| last720d | 2024-12-05 | 56 | 583 | 38 | 74 | 26 | 651 |
+| 30d | 2026-10-27 | 6 | 30 | 10 | 2 | 7 | 33 |
+| last60d | 2026-09-27 | 10 | 33 | 15 | 4 | 7 | 37 |
+| 90d | 2026-08-28 | 11 | 45 | 17 | 5 | 7 | 50 |
+| last180d | 2026-05-30 | 18 | 122 | 22 | 13 | 8 | 138 |
+| 360d | 2025-12-01 | 19 | 282 | 31 | 27 | 18 | 293 |
+| last720d | 2024-12-06 | 56 | 585 | 38 | 74 | 26 | 652 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for semantic-release lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:24:33Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:17:51Z._
