@@ -7,7 +7,7 @@ about:
   latestVersion: "v26.0.2-beta.1"
   latestRelease: "v26.0.1"
   latestPrerelease: "v26.0.2-beta.1"
-  collectedAt: 2026-11-27T09:30:41Z
+  collectedAt: 2026-11-28T08:24:23Z
 timeline:
   created: 2014-09-15
   lastCommit: 2026-11-26
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-11-16
   lastPrerelease: 2026-11-20
 popularity:
-  star: 24204
+  star: 24207
   watcher: 62
   fork: 1809
   release: 467
@@ -27,15 +27,15 @@ language:
 totalBytes: 153111
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 6
     mergedPR: 30
     openPR: 11
-    closedIssue: 2
+    closedIssue: 1
     openIssue: 7
     commit: 33
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 10
     mergedPR: 32
     openPR: 16
@@ -43,7 +43,7 @@ recent:
     openIssue: 7
     commit: 37
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 11
     mergedPR: 45
     openPR: 17
@@ -51,7 +51,7 @@ recent:
     openIssue: 7
     commit: 50
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 18
     mergedPR: 122
     openPR: 23
@@ -59,19 +59,19 @@ recent:
     openIssue: 8
     commit: 138
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 19
-    mergedPR: 279
+    mergedPR: 278
     openPR: 32
     closedIssue: 27
     openIssue: 18
     commit: 293
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 56
     mergedPR: 585
     openPR: 39
-    closedIssue: 74
+    closedIssue: 73
     openIssue: 26
     commit: 652
 total:
@@ -83,7 +83,7 @@ total:
   commit: 2275
 ---
 path: /home/runner/.x-repo/github.com/semantic-release/semantic-release
-collectedAt: 2026-11-27T09:30:45Z
+collectedAt: 2026-11-28T08:24:29Z
 loc:
   Json:
     code: 17167
